@@ -130,3 +130,29 @@ print("Type of c1:", type(c1))
 
 ### Result:
 Thus, the Python program for Complex Number Creation was executed successfully, and the complex number value was created and displayed correctly.
+
+### EX-1:Datatypes-Read and Print a String in Python
+
+### Aim:
+
+To write a Python program to read a string from the user and then print it.
+
+### Algorithm:
+
+1.Assign a variable named men_stepped_on_the_moon.
+
+2.Use input() to read a string from the user and store it in the variable.
+
+3.Print the value stored in the variable.
+
+### Program:
+```
+s = input("Enter a string: ")
+print("Entered string is:", s)
+
+```
+### Output:
+<img width="349" height="109" alt="Screenshot 2026-05-31 094015" src="https://github.com/user-attachments/assets/8547048f-b720-4c51-b2e2-a0c8f54a6466" />
+
+### Result:
+Thus, the Python program to read and print a string was executed successfully, and the entered string was displayed correctly.
