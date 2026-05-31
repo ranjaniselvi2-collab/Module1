@@ -96,3 +96,37 @@ print("Type of ch:", type(ch))
 
 ### Result:
 Thus, the Python program to demonstrate **Character Literal** was executed successfully, and the character value along with its data type (`str`) was displayed.
+
+### Ex-1:Datatypes-Complex Number Creation in Python
+
+### Aim:
+To write a Python program that reads two integers, creates a complex number using them, and then prints the complex number along with its real and imaginary parts.
+
+### Algorithm:
+
+1.Read an integer input from the user and assign it to the variable a (real part).
+
+2.Read another integer input from the user and assign it to the variable b (imaginary part).
+
+3.Create a complex number x using the complex(a, b) function.
+
+4.Print the complex number x.
+
+5.Print the real part of x using x.real. 
+
+6.Print the imaginary part of x using x.imag.
+
+### Program:
+```
+c1 = 3 + 4j
+c2 = complex(5, 2)
+print("Complex Number 1:", c1)
+print("Complex Number 2:", c2)
+print("Type of c1:", type(c1))
+```
+### Output:
+
+<img width="383" height="190" alt="Screenshot 2026-05-31 092449" src="https://github.com/user-attachments/assets/ff43db7f-5387-4170-a0f7-e6fb25831851" />
+
+### Result:
+Thus, the Python program for Complex Number Creation was executed successfully, and the complex number value was created and displayed correctly.
