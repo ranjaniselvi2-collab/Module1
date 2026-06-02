@@ -1,9 +1,9 @@
-### EX-1:Conditional Statements in Python: Even or Odd Checker
+## EX-1:Conditional Statements in Python: Even or Odd Checker
 
-### Aim:
+## Aim:
 To write a Python program to check whether the given number is even or odd using if...else statements.
 
-### Algorithm:
+## Algorithm:
 
 1.Get an input from the user.
 
@@ -17,7 +17,7 @@ To write a Python program to check whether the given number is even or odd using
 
 6.End the program.
 
-### Program:
+## Program:
 ```
 num = int(input("Enter a number: "))
 if num % 2 == 0:
@@ -26,18 +26,18 @@ else:
     print("Odd Number")
 ```
 
-### Output:
+## Output:
 <img width="433" height="319" alt="Screenshot 2026-05-29 134252" src="https://github.com/user-attachments/assets/ef250996-de02-4916-b544-f24f3fb5e3f4" />
 
-### Result:
+## Result:
 Thus, the Python program to check whether a number is Even or Odd using conditional statements was executed successfully.
 
-### EX-1:Datatypes-Boolean Expression Evaluation in Python
+## EX-1:Datatypes-Boolean Expression Evaluation in Python
 
-### Aim:
+## Aim:
 To write a Python program that evaluates and prints the results of boolean and arithmetic expressions involving True and False.
 
-### Algorithm:
+## Algorithm:
 1.Set variable a to the result of the expression 0 == True.
 
 2.Set variable b to the result of the expression False == False.
@@ -54,7 +54,7 @@ To write a Python program that evaluates and prints the results of boolean and a
 
 8.Print the value of d with the label "d:".
 
-### Program:
+## Program:
 ```
 a = 10
 b = 5
@@ -66,43 +66,43 @@ print("a != b :", a != b)
 print("a >= b :", a >= b)
 print("a <= b :", a <= b)
 ```
-### Output:
+## Output:
 <img width="315" height="311" alt="Screenshot 2026-05-29 135518" src="https://github.com/user-attachments/assets/b8f90d81-4bd9-4f73-91ab-2a753dc4159a" />
 
-### Result:
+## Result:
 Thus, the Python program for Boolean Expression Evaluation using different Boolean data type operations was executed successfully.
 
-### EX-1:Datatypes-Character Literal in Python
+## EX-1:Datatypes-Character Literal in Python
 
-### Aim:
+## Aim:
 
 To write a Python program that prints the characters 'T' and 'a' using character literals.
 
-###  Algorithm:
+##  Algorithm:
 
 1.Print the character 'T'.
 
 2.Print the character 'a'.
 
-### Program:
+## Program:
 ```
 ch = 'A'
 print("Character is:", ch)
 print("Type of ch:", type(ch))
 ```
-### Output:
+## Output:
 
 <img width="364" height="121" alt="Screenshot 2026-05-29 141450" src="https://github.com/user-attachments/assets/097a8510-46ff-4502-bb9d-567e6a144c64" />
 
-### Result:
+## Result:
 Thus, the Python program to demonstrate **Character Literal** was executed successfully, and the character value along with its data type (`str`) was displayed.
 
-### Ex-1:Datatypes-Complex Number Creation in Python
+## Ex-1:Datatypes-Complex Number Creation in Python
 
-### Aim:
+## Aim:
 To write a Python program that reads two integers, creates a complex number using them, and then prints the complex number along with its real and imaginary parts.
 
-### Algorithm:
+## Algorithm:
 
 1.Read an integer input from the user and assign it to the variable a (real part).
 
@@ -116,7 +116,7 @@ To write a Python program that reads two integers, creates a complex number usin
 
 6.Print the imaginary part of x using x.imag.
 
-### Program:
+## Program:
 ```
 c1 = 3 + 4j
 c2 = complex(5, 2)
@@ -124,20 +124,20 @@ print("Complex Number 1:", c1)
 print("Complex Number 2:", c2)
 print("Type of c1:", type(c1))
 ```
-### Output:
+## Output:
 
 <img width="383" height="190" alt="Screenshot 2026-05-31 092449" src="https://github.com/user-attachments/assets/ff43db7f-5387-4170-a0f7-e6fb25831851" />
 
-### Result:
+## Result:
 Thus, the Python program for Complex Number Creation was executed successfully, and the complex number value was created and displayed correctly.
 
-### EX-1:Datatypes-Read and Print a String in Python
+## EX-1:Datatypes-Read and Print a String in Python
 
-### Aim:
+## Aim:
 
 To write a Python program to read a string from the user and then print it.
 
-### Algorithm:
+## Algorithm:
 
 1.Assign a variable named men_stepped_on_the_moon.
 
@@ -145,14 +145,14 @@ To write a Python program to read a string from the user and then print it.
 
 3.Print the value stored in the variable.
 
-### Program:
+## Program:
 ```
 s = input("Enter a string: ")
 print("Entered string is:", s)
 
 ```
-### Output:
+## Output:
 <img width="349" height="109" alt="Screenshot 2026-05-31 094015" src="https://github.com/user-attachments/assets/8547048f-b720-4c51-b2e2-a0c8f54a6466" />
 
-### Result:
+## Result:
 Thus, the Python program to read and print a string was executed successfully, and the entered string was displayed correctly.
